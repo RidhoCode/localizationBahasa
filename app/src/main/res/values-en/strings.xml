@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile1718022</string>
+    <string name="photo">Photo</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="sociallife">Social Life</string>
+    <string name="send">Send Message To Number On My Profile</string>
+    <string name="start">Lets Start</string>
+</resources>

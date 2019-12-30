@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="awal">#008577</color>
+    <color name="tengah">#74C5BB</color>
+    <color name="akhir">#A30548</color>
+
+    <color name="icon">#B71C1C</color>
+    <color name="profile">#FDCB68</color>
+    <color name="profile1">#4FC3F7</color>
+</resources>

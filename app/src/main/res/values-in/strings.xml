@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile1718022</string>
+    <string name="photo">Foto</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="sociallife">Kehidupan Sosial</string>
+    <string name="send">Kirim Pesan Ke Nomor Yang Ada Pada Profil Saya </string>
+    <string name="start">Yuk Mulai</string>
+</resources>
